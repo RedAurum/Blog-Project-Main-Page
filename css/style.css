@@ -1,0 +1,146 @@
+/* Fonts CSS */
+
+body {
+    background-color: #e7f2f3;
+    font-family: 'Solway', serif;
+}
+
+h1, h2, h3, h4 {
+
+    font-family: 'Rampart One', cursive;
+}
+
+/* Background Header CSS */
+
+.background-banner {
+
+    background-image: url("../image/banner-bg-pink.avif"); /*Background picture from Unsplash by Annie Spratt, Free to use under the Unsplash License*/
+    background-repeat: no-repeat; 
+
+}
+
+.bgtext {
+
+    border-color: #ffffff31;
+    width: 50%;
+    display:inline-block;
+    margin: 0 auto;
+
+}
+
+
+/* Navbar CSS */
+
+
+.navbar {
+
+    background-color: #FCD5CE;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+
+    color: black;
+}
+
+
+
+/* Sidebar CSS */
+
+.nav-pills .nav-link.active {
+
+    color: black;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+
+    background-color:#FCD5CE;
+    color: black;
+}
+
+
+a {
+    color: black;
+}
+
+a:hover {
+
+    background-color: #FCD5CE;
+    color: black;
+}
+
+/* Social Network Buttons CSS */
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  
+
+/* Background CSS */
+
+
+.background-area {
+
+    background-image: url("../image/biscuits.avif"); /*Background picture from Unsplash by Keila Hötzel, Free to use under the Unsplash License*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #F9DCC4;
+}
+
+.container-bg {
+
+    background-color: #F8EDEB;
+
+}
+
+
+
+/* Avatar Profile Koala */
+
+
+.img-radius {
+
+    border: solid 2px black;
+    border-radius: 50%;
+}
+
+
+.main-page-articles a {
+
+    font-style: italic;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background-color: #FCD5CE;
+}
+
+footer p {
+
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+
+
+
+/* palette colours https://coolors.co/cad2c5-84a98c-52796f-354f52-2f3e46 */
